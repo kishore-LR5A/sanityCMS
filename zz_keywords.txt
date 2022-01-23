@@ -1,0 +1,11 @@
+max width constraint and auto centering..
+overflow-hidden
+object-contain,cover etc,..
+
+
+next-sanity: https://github.com/sanity-io/next-sanity
+react-portable-text
+
+
+deploy:
+first go to medium and sanity deploy in termianl..
